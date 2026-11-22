@@ -78,5 +78,3 @@ This was developed as a group project. The repository presents the agent impleme
 
 **Author:** Harjas Singh  
 **GitHub:** [Harjas500](https://github.com/Harjas500)
-
-**Note:** This repository is currently private while project-sharing permissions and the contents are reviewed.
